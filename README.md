@@ -10,7 +10,7 @@ I am the author of the [Enupal Plugins](https://plugins.craftcms.com/developer/4
 
 I create tech content, mostly about Web Development, JavaScript and C++, I am looking forward to add content about PHP, Python, Rest APIs and AWS in the future. I'd advise you to subscribe to stay up-to-date!
 
-I managed to create an online presence with my [YouTube](hhttps://www.youtube.com/c/Enupal) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+I managed to create an online presence with my [YouTube channel](https://www.youtube.com/channel/UC0YGIh4KcHF7XUmsUB7fyBQ?sub_confirmation=1), which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
 
 ---
 
