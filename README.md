@@ -49,8 +49,6 @@ I managed to create an online presence with my [YouTube](hhttps://www.youtube.co
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelopez&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Andre Lopez's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelopez&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
