@@ -23,6 +23,7 @@ I managed to create an online presence with my [YouTube](hhttps://www.youtube.co
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Craft CMS London Meetup - How to Build a Marketplace powered by Craft and Stripe](https://www.youtube.com/watch?v=Ps18Ds9t7yo)
 - [C++ Tutorial #1 - How to create a Space Invaders game](https://www.youtube.com/watch?v=JUhtQU9KJRw)
 - [Electron - How to create a multiplatform desktop app](https://www.youtube.com/watch?v=NNLNpfSV8LE)
 - [How to setup Xdebug on PHPStorm](https://www.youtube.com/watch?v=5qQ2K76OhYI)
