@@ -4,7 +4,7 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0YGIh4KcHF7XUmsUB7fyBQ?label=Youtube%20Subscribers&style=social)
 
-A Software Engineer specializing on Backend technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
+A Software Engineer specializing on Backend technologies and [AWS Certified Developer - Associate](https://www.credly.com/badges/7e495c50-77ab-4e43-bfe4-e1fa67d7c6e2/public_url).
 
 I am the author of the [Enupal Plugins](https://plugins.craftcms.com/developer/418) for Craft CMS.
 
